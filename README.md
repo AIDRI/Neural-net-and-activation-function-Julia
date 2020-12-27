@@ -30,5 +30,4 @@ Activation functions and derived functions can be easily added to a project.
 ## 4/ Links
 
 Julia : https://julialang.org/  
-Twitter : https://twitter.com/AIDRI_  
 Blog : https://aidri.github.io/emping/  
