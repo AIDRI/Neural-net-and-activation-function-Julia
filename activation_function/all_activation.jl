@@ -40,7 +40,7 @@ function derivative_relu(x)
         return 0
     end
     if x >= 0
-        return x
+        return 1
     end
 end
 
